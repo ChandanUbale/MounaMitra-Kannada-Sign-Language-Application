@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361691078520",
+    "project_id": "kannadasignlanguageapp",
+    "storage_bucket": "kannadasignlanguageapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361691078520:android:17aea816d18082d42f328d",
+        "android_client_info": {
+          "package_name": "com.testFlutter.flutter_test_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1j-PcA7MLCc0z9lV5lc3YThxuc_IjPxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
